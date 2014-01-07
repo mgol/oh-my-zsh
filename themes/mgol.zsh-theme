@@ -1,0 +1,1 @@
+../custom/themes/mgol.zsh-theme
